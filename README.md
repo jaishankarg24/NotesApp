@@ -18,11 +18,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Cloning and starting application
 1. - git clone https://github.com/jaishankarg24/NotesApp.git
-1. - cd notes-app
+1. - cd mynotes-app
 2. - npm install
 3. - npm run server //STARTS JSON SERVER ON PORT 5000
 4. - npm start  //STARTS REACT SERVER
 
+# Features : Notes app includes the Basic CRUD Functionalities.
+* Add Notes.
+* Delete Notes.
+* Update Notes.
+* Read Notes.
 
 # Notes List
 <img src="./Notes.PNG">  
