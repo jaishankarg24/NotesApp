@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![DEMO](../master/src/assets/img/NoteApp.png)
 
 ## Cloning and starting application
-1. - git clone https://github.com/divanov11/notes-app
+1. - git clone https://github.com/jaishankarg24/NotesApp.git
 1. - cd notes-app
 2. - npm install
 3. - npm run server //STARTS JSON SERVER ON PORT 5000
