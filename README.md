@@ -30,5 +30,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * Read Notes.
 
 # React 17.0.2
-<img src="./Logo512.PNG">  
+<img src="./logo512.png">  
 
