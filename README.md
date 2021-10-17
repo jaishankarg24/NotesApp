@@ -14,6 +14,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # NotesApp User Interface
-![DEMO](../master/NotesApp/src/assets/img/NoteApp.png)
+![DEMO](../master/src/assets/img/NoteApp.png)
 
 
