@@ -29,6 +29,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * Update Notes.
 * Read Notes.
 
-# Notes List
-<img src="./Notes.PNG">  
+# React 17.0.2
+<img src="./Logo512.PNG">  
 
